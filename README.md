@@ -13,3 +13,10 @@ Notes
 
 - Try using mongodb to store the entire collection as well as an inventory, and
   various decks.
+
+- Use node.js as a backend.
+
+- Some useful sites:
+    * http://mtgjson.com/
+    * http://mtgimage.com/
+    * https://github.com/Sembiance/mtgjson
